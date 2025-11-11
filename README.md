@@ -1,16 +1,40 @@
-## Hi there 👋
+🧑‍💻 Hi, I’m Igor!
 
-<!--
-**igort-devops/igort-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a self-taught Cybersecurity and DevOps enthusiast passionate about Linux, Python scripting, and ethical hacking.
+I love building projects that automate, secure, and optimize systems.
 
-Here are some ideas to get you started:
+🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐧 Linux / Bash
+
+🐍 Python
+
+🐳 Docker
+
+☁️ DevOps Basics (CI/CD, Automation)
+
+🔒 Ethical Hacking / Network Security
+
+🧩 Projects
+
+Security Scanner (Python)
+ – Automates vulnerability scans in lab environments.
+
+Linux Automation Scripts
+ – Bash tools for managing system tasks.
+
+Docker Lab Setup
+ – My personal DevOps environment experiments.
+
+📈 Learning Journey
+
+I’m constantly improving my skills in:
+
+Penetration testing & cybersecurity tools
+
+Python automation
+
+DevOps and cloud technologies
+
+
+
